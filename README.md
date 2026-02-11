@@ -10,9 +10,9 @@
     1. **Clone the repository**   
     git clone https://github.com/Krishnan195/customer_trends_data_analysis    
     2. Open Customer_Shopping_Behavior_Analysis.ipynb notebook      This file contains:        - Data Import        - Data exploration        - Data cleaning        - Connection to SQL Database  
-   3. Load the data from Python notebook into MySQL      - Create a database in SQL        - Run Python code to load data into SQL database          - customer_behavior_sql_queries.sql      - Answer Business Questions using SQL Queries      
+    3. Load the data from Python notebook into MySQL      - Create a database in SQL        - Run Python code to load data into SQL database          - customer_behavior_sql_queries.sql      - Answer Business Questions using SQL Queries      
     4. Connect the SQL Database to Power BI      - customer_behavior_dashboard.pbix**           - Create interactive dashboard in Power BI  
     6. Create Project Report and Presentation        - Create project report           - Build presentation deck using Gamma AI
-   👨‍💼   ## 📜 License  MIT — feel free to fork, star, and use in your portfolio.  
-   ## 👨‍💻 About the Krishnan, I’m Krishnan, a Passionate on Data Analyst. pursing final year at bsc cs with artificial intellegence and skilled in excel,Mysql,python lib pandas,visualization for powerbi,EDA data analysis and ETL data analysis.     
-  💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
+    👨‍💼   ## 📜 License  MIT — feel free to fork, star, and use in your portfolio.  
+    ## 👨‍💻 About the Krishnan, I’m Krishnan, a Passionate on Data Analyst. pursing final year at bsc cs with artificial intellegence and skilled in excel,Mysql,python lib pandas,visualization for powerbi,EDA data analysis and ETL data analysis.     
+    💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone learning Data Analytics.🚀
